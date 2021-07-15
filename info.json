@@ -1,0 +1,11 @@
+{
+    "name": "Thomas Coin",
+    "type": "BEP20",
+    "symbol": "TRAIN",
+    "decimals": 9,
+    "website": "https://www.ThomasToken.com/",
+    "description": "ThomasSwap is a FAN base support for Thomas and Friends that will allow other BEP20 coins to be swapped for other tokens on ThomasSwap.\n",
+    "explorer": "https://bscscan.com/token/0x908018fad3adbc3ee2f3c4d81d3728a63525a90b",
+    "status": "active",
+    "id": "0x908018fad3adbc3ee2f3c4d81d3728a63525a90b"
+}
